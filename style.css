@@ -460,7 +460,7 @@ a:hover {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../img/myproj/mypic.png);
+  background-image: url(../mypic.png);
   border-radius: 50%;
 }
 
