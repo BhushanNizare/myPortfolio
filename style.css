@@ -1322,6 +1322,13 @@ canvas {
   .st-hero.st-style1 .st-hero-text h1 {
     font-size: 60px;
   }
+  .st-bg {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(../mypic.png);
+    border-radius: 10%;
+  }
 }
 
 /*--------------------------------------------------------------
